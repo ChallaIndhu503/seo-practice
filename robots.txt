@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://challaindhu503.github.io/seo-practice/sitemap.xml
